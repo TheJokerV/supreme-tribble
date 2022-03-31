@@ -1,0 +1,29 @@
+{
+  "name": "supreme-tribble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheJokerV/supreme-tribble.git"
+  },
+  "keywords": [],
+  "author": "Equipo UNAC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheJokerV/supreme-tribble/issues"
+  },
+  "homepage": "https://github.com/TheJokerV/supreme-tribble#readme",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4"
+  },
+  "dependencies": {
+    "typescript": "^4.6.2"
+  }
+}
